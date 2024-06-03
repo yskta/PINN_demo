@@ -1,2 +1,4 @@
-This repository is copied from [PINNs](https://github.com/maziarraissi/PINNs) repository.
-The purpose is to study code of PINNs for my research.
+・reference repositories List
+1.[PINNs_Original](https://github.com/maziarraissi/PINNs) 
+2.[AISE-2024](https://github.com/benmoseley/AISE-2024)
+3.[PINN4SOH](https://github.com/wang-fujin/PINN4SOH)
